@@ -1,0 +1,6 @@
+1. More technical Indicators: such as Bollinger Bands, Stochastic Oscillator
+2. Use of Ensemble models can improve model predictions by reducing Bias
+3. Use of techniques like L1/L2 regularization can help penalize overly complex models.
+4. Cross-Validation and Model Averaging can prevent overfitting.
+5. Additional metrics like Mean Absolute Percentage Error (MAPE), Mean Directional Accuracy (MDA) can help understand the results better.
+6. Development of an Automated Pipeline can reduce time for retraining and updating.
